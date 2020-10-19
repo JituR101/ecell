@@ -163,7 +163,7 @@
                 <img class="profile-photo" src="https://media-exp1.licdn.com/dms/image/C4E03AQHB1Dn-bE3b-w/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=yFjsnGO5h24Yy_DIy8D00B5JJEaUB1wCLVoGMC17lgI" alt="author-Michelle's profile">
                 <figcaption>
                   <p>Rashmi Hegde<br>
-                    <time datetime="2020-06-28">25th August, 2020</time>
+                    <time datetime="2020-06-28">18th October, 2020</time>
                   </p>
                 </figcaption>
               </figure>
@@ -237,7 +237,7 @@
                 <img class="profile-photo" src="https://media-exp1.licdn.com/dms/image/C5103AQHc78ZH8kPaUA/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=lwWfT5Ukk8qd899Py3c0oGlkBinc-BoEo-3S4Xw54_4" alt="author-Michelle's profile">
                 <figcaption>
                   <p>Harshvardhan Sikarwar<br>
-                    <time datetime="2020-06-28">28th August, 2020</time>
+                    <time datetime="2020-06-28">18th October, 2020</time>
                   </p>
                 </figcaption>
               </figure>

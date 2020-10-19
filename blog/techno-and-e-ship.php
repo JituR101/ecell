@@ -75,7 +75,7 @@
 	</div>
 	<div id="heading-of-blog">
 		<!-- Date and Heading of Blog here -->
-		<div id="head"><span style="font-size: 22px; color: rgba(34, 193, 195, 1);"><i class="fas fa-calendar-alt"></i>  </span><time datetime="2020-08-27" id="date">25th August, 2020</time><br>Technology and Entrepreneurship: The Unbeatable Combination</div>
+		<div id="head"><span style="font-size: 22px; color: rgba(34, 193, 195, 1);"><i class="fas fa-calendar-alt"></i>  </span><time datetime="2020-08-27" id="date">18th October, 2020</time><br>Technology and Entrepreneurship: The Unbeatable Combination</div>
 	</div>
 	<div class="img">
 		<img src="img/b-1.jpg" alt="Flower" title="" class="content-img">

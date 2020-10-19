@@ -83,12 +83,7 @@
 	<div class="content">
 		<!-- Image related to content of blog -->
 		<div class="text">
-			<!-- Quoted Text Here -->
-			<blockquote class="blockquote quote-text">
-				<i>"Believe in miracles, but do not rely on them."</i>
-			</blockquote>
-			<!--<div class="quote-auth">-Elon Musk</div>-->
-			<br>
+			
 			<hr class="hr">
 			<div class="author">
 				<!-- Author profile image Here -->
@@ -102,10 +97,21 @@
 							d="M186.4 142.4c0 19-15.3 34.5-34.2 34.5 -18.9 0-34.2-15.4-34.2-34.5 0-19 15.3-34.5 34.2-34.5C171.1 107.9 186.4 123.4 186.4 142.4zM181.4 201.3h-57.8V388.1h57.8V201.3zM273.8 201.3h-55.4V388.1h55.4c0 0 0-69.3 0-98 0-26.3 12.1-41.9 35.2-41.9 21.3 0 31.5 15 31.5 41.9 0 26.9 0 98 0 98h57.5c0 0 0-68.2 0-118.3 0-50-28.3-74.2-68-74.2 -39.6 0-56.3 30.9-56.3 30.9v-25.2H273.8z" />
 					</svg>
 				</a>
+				<!-- Quoted Text Here -->
+			<blockquote class="blockquote quote-text">
+				<i>"Believe in miracles, but do not rely on them."</i>
+			</blockquote>
+			<!--<div class="quote-auth">-Elon Musk</div>-->
+			<br><br>
+			<!-- <hr class="hr"> -->
 			</div>
+			<br><br>
 			<!-- Blog Content Here -->
+			<br>
+			<hr class="hr">
+
 			<div class="main-text">
-			Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of designing, launching and running a new business. Two different worlds, two different career paths but one motive-money, innovation and problem solving.<br>
+			Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of designing, launching and running a new business. Two different worlds, two different career paths but one motive-money, innovation and problem solving.<br><br>
 
 			Apart from engineering there are various other fields from where business students come. Talking about IIMs, 75% are from engineering background and among these 30-35% are from NITs and IITs i.e the best students in the field of technology. Well before moving further, let us look at some philosophical lines which one has surely encountered in his/her life:
 			<ul class="list-item">
